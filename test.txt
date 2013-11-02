@@ -1,0 +1,1 @@
+Hi there!  This is just some random stuff.  On a slightly different note, I am coming to understand that vim is a truly excellent product.  The speed of making edits is really something.
